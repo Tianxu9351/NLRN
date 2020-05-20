@@ -1,14 +1,5 @@
-# Relation_Networks-pytorch
-Relation Networks for object detection based pytorch
-
-### Progress
-
-- [x] add relation module
-- [x] add nms using relation module
-- [x] end to end train renet based on faster-rcnn
-- [x] evaluate mAP
-
-
+# Non-local Relation Networks-pytorch
+Comp 776 final project
 
 ## Requirements
 1. Python3.5
